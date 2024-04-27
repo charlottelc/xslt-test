@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="vocabtest.xsl"?>
 <list>
-  <vocab>
-    <prefLabel>Empire Burlesque</prefLabel>
-    <altLabel>Bob Dylan</altLabel>
-  </vocab>
+  <skos:Concept>
+    <prefLabel>Children</prefLabel>
+    <altLabel>Kids</altLabel>
+  </skos:Concept>
 </list>
