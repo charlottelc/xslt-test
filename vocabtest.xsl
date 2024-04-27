@@ -11,10 +11,10 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
           <th>Preferred Term</th>
           <th>Alternate Term</th>
         </tr>
-        <xsl:for-each select="list/vocab">
+        <xsl:for-each select="list/skos:Concept">
         <tr>
-          <td><xsl:value-of select="prefTerm"/></td>
-          <td><xsl:value-of select="altTerm"/></td>
+          <td><xsl:value-of select="skos:prefLabel"/></td>
+          <td><xsl:value-of select="skos:altLabel"/></td>
         </tr>
         </xsl:for-each>
       </table>
