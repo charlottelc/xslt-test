@@ -7,9 +7,5 @@
     <skos:scopeNote>Young humans between the ages of 5-12</skos:scopeNote>
     <dc:identifier>ZZW001</dc:identifier>
   </concept>
-  <skos:Concept>
-    <skos:prefLabel>Nannies</skos:prefLabel>
-    <skos:altLabel>Caregivers</skos:altLabel>
-  </skos:Concept>
 </list>
     
