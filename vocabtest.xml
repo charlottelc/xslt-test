@@ -5,9 +5,9 @@
   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   xmlns:rdfs="http://www.w3.org/TR/2014/REC-rdf-schema-20140225/"
   xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <skos:Concept>
-    <skos:prefLabel>Children</skos:prefLabel>
-    <skos:altLabel>Kids</skos:altLabel>
+  <Concept>
+    <prefLabel>Children</prefLabel>
+    <altLabel>Kids</altLabel>
     <skos:scopeNote>Young humans between the ages of 5-12</skos:scopeNote>
     <dc:identifier>ZZW001</dc:identifier>
   </skos:Concept>
