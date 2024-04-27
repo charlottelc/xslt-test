@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="vocabtest.xsl"?>
+<list>
+  <vocab>
+    <prefTerm>Children</prefTerm>
+    <altTerm>Kids</altTerm>
+    <definition>Young humans between the ages of 5-12</definition>
+    <identifier>ZZW001</identifier>
+    <relatedTerm>Toddlers</relatedTerm>
+  </vocab>
+</list>
+    
