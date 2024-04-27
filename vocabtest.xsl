@@ -11,7 +11,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
           <th>Preferred Term</th>
           <th>Alternate Term</th>
         </tr>
-        <xsl:for-each select="list/Concept">
+        <xsl:for-each select="list/Concept/">
         <tr>
           <td><xsl:value-of select="prefLabel"/></td>
           <td><xsl:value-of select="altLabel"/></td>
